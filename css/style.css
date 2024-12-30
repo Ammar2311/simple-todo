@@ -1,0 +1,22 @@
+body{
+    background-color: #495E6B;
+}
+
+.container{
+    background-color: #F7F7F7;
+    margin: 10% auto;
+    width: 40vw;
+    height: 50vh;
+
+}
+
+.task:hover{
+   background-color: #949191;
+
+}
+.container *{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
